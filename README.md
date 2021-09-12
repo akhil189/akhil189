@@ -1,9 +1,9 @@
 ### Hi there👋, I'm Akhil👨🏽‍💻 
 
-- I'm a Data Scientist in making
-- Learning to build Deep Learning models in Python using TensorFlow and Keras
-- Experienced in developing classical ML Algorithms from scratch in Python
-- Experienced in developing AI Chatbots using [Rasa](https://rasa.com/open-source/)
+- ➡️ I'm a Data Scientist in making<br>
+- ➡️ Learning to build Deep Learning models in Python using TensorFlow and Keras
+- ➡️ Experienced in programming classical ML Algorithms from scratch in Python
+- ➡️ Experienced in developing AI Chatbots using [Rasa](https://rasa.com/open-source/)
 
 #### I'm currently
 
@@ -11,7 +11,7 @@
 - 👨🏽‍🏫 Graduate Teaching Assistant at Northeastern University, Boston
 - 💻 Experienced Software Developer(Python)
 
-#### Connect with me:
+#### Connect with me on:
 
 <p>
     <a href="https://www.linkedin.com/in/akhilesh1896/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
@@ -21,9 +21,11 @@
     <a href="https://www.instagram.com/akh1l_18/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
     </a> 
 </p>
-You can reach me at - ande.akhilesh@gmail.com
 
-#### ⚡ Languages
+You can reach me at - ande.akhilesh@gmail.com
+</br>
+
+**⚡ Languages**
 
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height=20></a>
@@ -31,13 +33,12 @@ You can reach me at - ande.akhilesh@gmail.com
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" height=20></a>
 </p>
 
-#### ⚡ Database
+**⚡ Database**
 
 <!-- ![MySQL](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height=20>
 
-
-#### ⚡ ML Libraries and Frameworks
+**⚡ ML Libraries and Frameworks**
 
 <p>
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height=20></a>
@@ -47,7 +48,7 @@ You can reach me at - ande.akhilesh@gmail.com
 <img src="	https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height=20></a>
 </p>
 
-## ⚡ **Tools**
+**⚡ Tools**
 
 <p>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode" height=20></a>
