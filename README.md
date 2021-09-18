@@ -1,7 +1,7 @@
 ### Hi there👋, I'm Akhil👨🏽‍💻 
 
 - ➡️ I'm a Data Scientist in making<br>
-- ➡️ Learning to build Deep Learning models in Python using TensorFlow and Keras
+- 💻 Experienced Software Developer(Python)
 - ➡️ Experienced in programming classical ML Algorithms from scratch in Python
 - ➡️ Experienced in developing AI Chatbots using [Rasa](https://rasa.com/open-source/)
 
@@ -9,7 +9,7 @@
 
 - 🧑‍🎓 Graduate Student at Northeastern University, Boston
 - 👨🏽‍🏫 Graduate Teaching Assistant for the course IE 7374: Machine Learning in Engineering by Prof. Ramin Mohammadi
-- 💻 Experienced Software Developer(Python)
+- ➡️ Learning to build Deep Learning models in Python using TensorFlow and Keras
 
 #### Connect with me on:
 
