@@ -1,7 +1,7 @@
 ### Hi there👋, I'm Akhil👨🏽‍💻 
 
 - ➡️ I'm a Data Scientist in making<br>
-- 💻 Experienced Software Developer(Python)
+- ➡️ Experienced Software Developer(Python)💻
 - ➡️ Experienced in programming classical ML Algorithms from scratch in Python
 - ➡️ Experienced in developing AI Chatbots using [Rasa](https://rasa.com/open-source/)
 
