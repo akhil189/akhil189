@@ -8,7 +8,7 @@
 #### I'm currently
 
 - 🧑‍🎓 Graduate Student at Northeastern University, Boston
-- 👨🏽‍🏫 Graduate Teaching Assistant at Northeastern University, Boston
+- 👨🏽‍🏫 Graduate Teaching Assistant for the course IE 7374: Machine Learning in Engineering by Prof. Ramin Mohammadi
 - 💻 Experienced Software Developer(Python)
 
 #### Connect with me on:
