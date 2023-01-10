@@ -9,11 +9,9 @@
 
 #### I'm an
 
-➡️ Experienced Data Scientist and Software Developer(Python)💻
-
-➡️ Experienced in programming classical ML Algorithms from scratch in Python
-
-➡️ Experienced in developing AI Chatbots using [Rasa](https://rasa.com/open-source/)
+- ➡️ Experienced Data Scientist and Software Developer(Python)💻
+- ➡️ Experienced in programming classical ML Algorithms from scratch in Python
+- ➡️ Experienced in developing AI Chatbots using [Rasa](https://rasa.com/open-source/)
 
 #### Connect with me on:
 
