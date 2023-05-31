@@ -2,10 +2,13 @@
 
 #### I'm currently
 
-- ➡️ **Looking for full-time opportunities starting from May 2023**
-- 🎓 M.S. Student at Northeastern University, Boston majoring in Data Science
-- 👨🏽‍🏫 Graduate Teaching Assistant for the course [IE 7300: Machine Learning in Engineering](http://www.machinelearninginengineering.com/about/tas) by [Prof. Ramin Mohammadi](https://www.linkedin.com/in/ramin-mohammadi-ml/)
+- ➡️ **Looking for Full-time opportunities starting from Jan 2024**
+- ➡️ **Incoming ML-Ops Intern at [Tausight](https://www.tausight.com/)**
 
+#### Previously,
+
+- 🎓 M.S. Graduate student at Northeastern University, Boston majored in Data Science
+- 👨🏽‍🏫 Graduate Teaching Assistant for the course [IE 7300: Machine Learning in Engineering](http://www.machinelearninginengineering.com/about/tas) by [Prof. Ramin Mohammadi](https://www.linkedin.com/in/ramin-mohammadi-ml/)
 
 #### I'm an
 
@@ -14,7 +17,6 @@
 - ➡️ Experienced in developing AI Chatbots using [Rasa](https://rasa.com/open-source/)
 
 #### Connect with me on:
-
 <p>
     <a href="https://www.linkedin.com/in/akhilesh1896/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
     </a>
