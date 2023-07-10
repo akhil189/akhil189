@@ -3,7 +3,7 @@
 #### I'm currently
 
 - ➡️ **Looking for Full-time opportunities starting from Jan 2024**
-- ➡️ **Incoming ML-Ops Intern at [Tausight](https://www.tausight.com/)**
+- ➡️ **ML & ML-Ops Intern at [Tausight](https://www.tausight.com/)**
 
 #### Previously,
 
