@@ -29,6 +29,7 @@
 You can reach me at - ande.akhilesh@gmail.com
 </br>
 
+<!--
 ## ⚡ Skills:
 **➡️ Languages**: <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" height=20></a>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height=20></a>
@@ -41,10 +42,13 @@ You can reach me at - ande.akhilesh@gmail.com
 <img src="	https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" height=20></a>
 
 **➡️ Database**: <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height=20>
+-->
+
 <!-- ![MySQL](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) -->
 
+<!--
 **➡️ Tools**: <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" height=20></a>
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height=20></a>
 <img src="https://img.shields.io/badge/-Jupyter-blue?style=flat-square&logo=jupyter" height=20></a>
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=flat-square&logo=visualstudiocode" height=20></a>
-<img src="https://img.shields.io/badge/-Vim-blue?style=flat-square&logo=vim" height=20></a>
+<img src="https://img.shields.io/badge/-Vim-blue?style=flat-square&logo=vim" height=20></a> -->
